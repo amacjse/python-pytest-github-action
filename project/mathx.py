@@ -52,3 +52,4 @@ def divide(x: int, y: int) -> float:
                     int: dividend of x and y
     """
     return x / y
+
